@@ -57,7 +57,7 @@
 	</script>
 	</head>
 	<body >
-		<h1 class="bg-success">VN- facebook</h1>
+		<h1 class="bg-success">VN- facebook publicaciones</h1>
 		<div class="container">
 			<div class="row">
 				<div class="col-md-6">
